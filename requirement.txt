@@ -1,4 +1,4 @@
-Django==1.2.1
+Django==5.1.7
 requests==1.2.3
 Flask==0.10.1
 cryptography==1.7
